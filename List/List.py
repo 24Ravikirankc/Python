@@ -3,7 +3,7 @@
 #    - Lists are ordered sequence of mixed data types
 #    - Lists are written in comma separated elements within square brackets
 
-a = 10
+# a = 10
 
 # print(type(a))
 
@@ -19,4 +19,4 @@ print(type(a))
 
 len(a)
 
-Output: 10
+# Output: 10
